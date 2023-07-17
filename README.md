@@ -1,4 +1,4 @@
-![1](https://github.com/RahymCharyyev/Countdown-Timer/assets/62890688/176db888-eb21-401b-a4cc-fd0bd75da00a)<h1 align="center" id="top">Countdown-Timer/h1>
+<h1 align="center" id="top">Countdown-Timer</h1>
 &#xa0;
 <div align="center">
 <a href="https://rahymcharyyev.github.io/Countdown-Timer/">Demo</a>
