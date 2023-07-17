@@ -37,7 +37,7 @@
 
 ## :dart: About
 
-This small project that was created using a course from Wes Bos. In this project you can set a time, like it timer. From 5 seconds to 60 minutes. Also you can additionaly define time you want.
+This small project that was created using a course from Wes Bos. In this project you can set a time, like it timer. From 5 seconds to 60 minutes. Also you can additionaly define any time you want.
 
 ## :rocket: Technologies
 
